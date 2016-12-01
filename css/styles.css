@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+h3{
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+h4{
+    text-align: center;
+    font-weight: 300;
+}
+
+
+
+tr td img {
+    width: 3rem;
+    text-align: center;
+    display: inline;
+    margin: 0 auto;
+}
+
+.selfi{
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.circle h4 {
+    font-size: 4rem;
+}
+
+/**.numberCircle h6{
+    font-size: 6rem;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 10px red solid;
+    padding: 6rem 0rem 6rem 0rem;
+}
+**/
+
+footer{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+ 
